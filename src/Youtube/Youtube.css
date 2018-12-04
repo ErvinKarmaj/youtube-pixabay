@@ -1,0 +1,47 @@
+.search-bar {
+  margin-inline-start: 500px;
+  text-align: left;
+  width: 25%;
+  height: 35px;
+}
+
+.search-bar input {
+  width: 75%;
+}
+
+.video-item img {
+  max-width: 200px;
+}
+
+.video-detail .details {
+  margin-top: 15px;
+  padding: 15px;
+  border: 2px solid #ddd;
+  border-radius: 6px;
+}
+
+.embed-responsive {
+
+  margin-top: 40px;
+} 
+
+.list-group-item {
+  cursor: pointer;
+  margin: 40px;
+}
+
+.list-group-item:hover {
+  background-color: #eee;
+}
+.logo 
+{
+  cursor: pointer;
+  margin: 20px;
+}
+
+.btn 
+{
+  float: right;
+  cursor: pointer;
+  margin: 18px;
+}
